@@ -13,6 +13,8 @@ public class Parent {
 	
 	public static void showProject(){
 		System.out.println("Project1");
+		System.out.println("Happy sales people");
+		System.out.println("_______________________");
 	}
 
 }
